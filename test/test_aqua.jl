@@ -1,7 +1,7 @@
 function test_aqua()
     @testset "Aqua.jl" begin
         Aqua.test_all(
-            CTAppTemplate;
+            sts2levelqs;
             ambiguities=false,
             #stale_deps=(ignore=[:SomePackage],),
             deps_compat=(ignore=[:LinearAlgebra, :Unicode],),
