@@ -1,5 +1,5 @@
 [deps]
-Documenter = "07a61b25-1d05-45db-b387-9404c2e70257"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 
 [compat]
 Documenter = "1"
