@@ -4,7 +4,7 @@ For instructions on how to customize this README.template.md and use the central
 please see the user guide: https://github.com/orgs/dtinas10/discussions/67
 -->
 
-The sts-2level-qs.jl repo is part of the [dtinas10 ecosystem](https://github.com/dtinas10).
+The sts-2level-qs.jl repo is part of the [control-toolbox ecosystem](https://github.com/control-toolbox).
 
 | **Category** | **Badge** |
 |-----------------------|-----------|
