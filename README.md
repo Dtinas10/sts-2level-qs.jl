@@ -9,7 +9,7 @@ The sts2levelqs.jl repo is part of the [control-toolbox ecosystem](https://githu
 
 | **Category** | **Badge** |
 |-----------------------|-----------|
-| **Documentation** | [![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://dtinas10.org/sts2levelqs.jl/stable/) [![Dev Docs](https://img.shields.io/badge/docs-dev-8A2BE2.svg)](https://dtinas10.org/sts2levelqs.jl/dev/) |
+| **Documentation** | [![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://dtinas10.github.io/sts2levelqs.jl/stable/) [![Dev Docs](https://img.shields.io/badge/docs-dev-8A2BE2.svg)](https://dtinas10.github.io/sts2levelqs.jl/dev/) |
 | **CI / Build** | [![Build Status](https://github.com/dtinas10/sts2levelqs.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/dtinas10/sts2levelqs.jl/actions/workflows/CI.yml?query=branch%3Amain) |
 | **Test Coverage** | [![Coverage](https://codecov.io/gh/dtinas10/sts2levelqs.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/dtinas10/sts2levelqs.jl) |
 | **Release / Version** | [![Release](https://img.shields.io/github/v/release/dtinas10/sts2levelqs.jl.svg)](https://github.com/dtinas10/sts2levelqs.jl/releases) |
