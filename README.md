@@ -1,19 +1,19 @@
-# sts-2level-qs.jl
+# sts2levelqs.jl
 
 <!-- 
 For instructions on how to customize this README.template.md and use the centralized workflow,
 please see the user guide: https://github.com/orgs/control-toolbox/discussions/67
 -->
 
-The sts-2level-qs.jl repo is part of the [control-toolbox ecosystem](https://github.com/control-toolbox).
+The sts2levelqs.jl repo is part of the [control-toolbox ecosystem](https://github.com/control-toolbox).
 
 | **Category** | **Badge** |
 |-----------------------|-----------|
-| **Documentation** | [![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://dtinas10.org/sts-2level-qs.jl/stable/) [![Dev Docs](https://img.shields.io/badge/docs-dev-8A2BE2.svg)](https://dtinas10.org/sts-2level-qs.jl/dev/) |
-| **CI / Build** | [![Build Status](https://github.com/dtinas10/sts-2level-qs.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/dtinas10/sts-2level-qs.jl/actions/workflows/CI.yml?query=branch%3Amain) |
-| **Test Coverage** | [![Coverage](https://codecov.io/gh/dtinas10/sts-2level-qs.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/dtinas10/sts-2level-qs.jl) |
-| **Release / Version** | [![Release](https://img.shields.io/github/v/release/dtinas10/sts-2level-qs.jl.svg)](https://github.com/dtinas10/sts-2level-qs.jl/releases) |
-| **License** | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/dtinas10/sts-2level-qs.jl/blob/master/LICENSE) |
+| **Documentation** | [![Stable Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://dtinas10.org/sts2levelqs.jl/stable/) [![Dev Docs](https://img.shields.io/badge/docs-dev-8A2BE2.svg)](https://dtinas10.org/sts2levelqs.jl/dev/) |
+| **CI / Build** | [![Build Status](https://github.com/dtinas10/sts2levelqs.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/dtinas10/sts2levelqs.jl/actions/workflows/CI.yml?query=branch%3Amain) |
+| **Test Coverage** | [![Coverage](https://codecov.io/gh/dtinas10/sts2levelqs.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/dtinas10/sts2levelqs.jl) |
+| **Release / Version** | [![Release](https://img.shields.io/github/v/release/dtinas10/sts2levelqs.jl.svg)](https://github.com/dtinas10/sts2levelqs.jl/releases) |
+| **License** | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/dtinas10/sts2levelqs.jl/blob/master/LICENSE) |
 | **Code Style / Quality** | [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/JuliaDiff/BlueStyle) [![Aqua.jl](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl) |
 
 ## About control-toolbox

@@ -1,4 +1,4 @@
-name = "sts-2level-qs"
+name = "sts2levelqs"
 uuid = "eb604665-d64b-4d02-aa6d-8b42324a08dc"
 authors = ["David Tinoco <david.tinoco.fr>"]
 version = "0.1.0"
