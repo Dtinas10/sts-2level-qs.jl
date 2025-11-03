@@ -8,6 +8,6 @@ function test_aqua()
             piracies=true,
         )
         # do not warn about ambiguities in dependencies
-        Aqua.test_ambiguities(CTAppTemplate)
+        Aqua.test_ambiguities(sts2levelqs)
     end
 end
