@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+sts2levelqs = "d1f5d2d8-a4cd-4997-9dad-9f7b20cce630"
+
+[compat]
+Documenter = "1"
