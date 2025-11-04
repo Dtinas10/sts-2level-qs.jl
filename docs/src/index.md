@@ -7,7 +7,7 @@ Documentation for [CTAppTemplate](https://github.com/control-toolbox/CTAppTempla
 ```@setup main
 using Pkg
 using InteractiveUtils
-using Markdown
+using Markdown 
 
 # Download links for the benchmark environment
 function _downloads_toml(DIR)
@@ -22,7 +22,7 @@ end
 ```
 
 ```@example main
-_downloads_toml(".") # hide
+_downloads_toml(".") # hider
 ```
 
 ```@raw html
