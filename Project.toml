@@ -1,7 +1,7 @@
 name = "sts2levelqs"
 uuid = "d1f5d2d8-a4cd-4997-9dad-9f7b20cce630"
 authors = ["David Tinoco <david.tinoco.fr>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.11"
