@@ -92,7 +92,6 @@ where $p = (p_x, p_y,p_z)$ is the costate vector. The optimal control is given b
 
 Define the packages:
 ```@example main
-using OrdinaryDiffEq  
 using MINPACK 
 ```
 
@@ -129,6 +128,8 @@ nothing # hide
 We are now ready to solve the shooting equations:
 
 ```@example main
+using DifferentiationInterface
+import ForwardDiff
 backend = AutoForwardDiff();
 
 ξ = p0 # initial guess
