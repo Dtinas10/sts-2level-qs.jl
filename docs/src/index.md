@@ -168,7 +168,7 @@ for t in time_grid(flow_sol)
     push!(y, state(flow_sol)(t)[2])
     push!(z, state(flow_sol)(t)[3])
 end
-plotlyjs()
+gr()
 θ = 0:0.01:π    
 φ = 0:0.01:2π  
 xs = [sin(t) * cos(p) for t in θ, p in φ]
