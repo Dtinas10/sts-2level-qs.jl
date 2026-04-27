@@ -1,11 +1,19 @@
-# sts2levelqs.jl
+# CTAppTemplate.jl
+
+This repository is a template to create an application or a package for the [control-toolbox ecosystem](https://github.com/control-toolbox). 
+
+The instructions to set up a new application / package are given in discussion https://github.com/control-toolbox/CTAppTemplate.jl/discussions/9.
+
+[![**Click here to follow instructions to use this template!** ⬅️](https://img.shields.io/badge/Click_here_to_follow_instructions_to_use_this_template!-darkgreen)](https://github.com/orgs/control-toolbox/discussions/65)
+
+----
 
 <!-- 
 For instructions on how to customize this README.template.md and use the centralized workflow,
 please see the user guide: https://github.com/orgs/control-toolbox/discussions/67
 -->
 
-The sts2levelqs.jl repo is part of the [control-toolbox ecosystem](https://github.com/control-toolbox).
+The CTAppTemplate.jl repo is part of the [control-toolbox ecosystem](https://github.com/control-toolbox).
 
 | **Category** | **Badge** |
 |-----------------------|-----------|
@@ -41,8 +49,8 @@ The **control-toolbox** ecosystem brings together <a href="https://julialang.org
 
 ## Contributing
 
-[issue-url]: https://github.com/AnasXbouali/SIRcontrol.jl/issues
-[first-good-issue-url]: https://github.com/AnasXbouali/SIRcontrol.jl/contribute
+[issue-url]: https://github.com/dtinas10/sts2levelqs.jl/issues
+[first-good-issue-url]: https://github.com/dtinas10/sts2levelqs.jl/contribute
 
 If you think you found a bug or if you have a feature request / suggestion, feel free to open an [issue][issue-url].  
 Before opening a pull request, please start an issue or a discussion on the topic. 
